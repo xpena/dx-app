@@ -1,0 +1,19 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ],
+  "description": "Test",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "dx-app",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
